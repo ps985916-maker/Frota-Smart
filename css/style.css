@@ -1,0 +1,73 @@
+body{
+
+margin:0;
+
+background:#F4F6F9;
+
+font-family:Arial, Helvetica, sans-serif;
+
+}
+
+.menu-lateral{
+
+width:260px;
+
+background:#0D6EFD;
+
+color:white;
+
+height:100vh;
+
+padding:20px;
+
+}
+
+.menu-lateral h3{
+
+margin-bottom:30px;
+
+}
+
+.menu-lateral ul{
+
+list-style:none;
+
+padding:0;
+
+}
+
+.menu-lateral li{
+
+padding:15px;
+
+margin-bottom:10px;
+
+border-radius:10px;
+
+cursor:pointer;
+
+}
+
+.menu-lateral li:hover{
+
+background:rgba(255,255,255,.2);
+
+}
+
+.conteudo{
+
+flex:1;
+
+padding:40px;
+
+}
+
+.sombra{
+
+box-shadow:0 10px 25px rgba(0,0,0,.12);
+
+border:none;
+
+border-radius:15px;
+
+}
